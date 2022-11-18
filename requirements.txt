@@ -1,5 +1,5 @@
-scipy==1.7.3
-pandas==1.5.1
-scikit-learn==1.0.2
-matplotlib==3.5.3
-plotnine==0.8.0
+scipy
+pandas
+scikit-learn
+matplotlib
+plotnine
